@@ -18,10 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  /* --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png); */
-  /* Image from: https://wallpaperaccess.com/full/2785426.jpg */
-  /* Credit for the image goes to them. */
-  --dplus-backdrop: url(https://raw.githubusercontent.com/TheStutterNerd/dc-plus-theme/refs/heads/master/assets/backgrounds/road_red_trees.jpg);
+  --dplus-backdrop: url(https://raw.githubusercontent.com/TheStutterNerd/dc-plus-theme/refs/heads/main/backgrounds/red_planet.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 0;
@@ -44,9 +41,7 @@
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
   /* --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png); */
-  /* Image from: https://wallpaperaccess.com/full/2785426.jpg */
-  /* Credit for the image goes to them. */
-  --dplus-backdrop: url(https://raw.githubusercontent.com/TheStutterNerd/dc-plus-theme/refs/heads/master/assets/backgrounds/road_red_trees.jpg);
+  --dplus-backdrop: url(https://raw.githubusercontent.com/TheStutterNerd/dc-plus-theme/refs/heads/main/backgrounds/red_planet.jpg);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
